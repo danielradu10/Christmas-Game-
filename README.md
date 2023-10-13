@@ -10,3 +10,5 @@ Now that the planes are destroyed, a lot of presents are going to fall from the 
 
 LVL3:
 The third level is unfinished, but the main idea is that you have to run and jump with Santa. 
+
+This project helped me to improve my OOP skills along with the C++ programming language. I've tried to implement physics, animations and different user interactions.
